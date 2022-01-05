@@ -85,5 +85,5 @@ export default {
     box-shadow: 2px 4px 6px rgba(28, 6, 49, 0.1);
     background: #EF4423;
     margin-bottom: 10px;
-  }
+  } 
 </style>
